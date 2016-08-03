@@ -1,0 +1,9 @@
+inferred presence for pectoral fin: 2019
+inferred presence for pelvic fin: 1957
+unmapped data for pectoral fin: 1
+Notropis_sp._&quot;sawfin_shiner&quot;_Coburn_and_Cavender_1992
+
+
+unmapped data for pelvic fin 2
+Garra_sp._'Discognathichthys'_Coburn_and_Cavender_1992
+Notropis_sp._&quot;sawfin_shiner&quot;_Coburn_and_Cavender_1992

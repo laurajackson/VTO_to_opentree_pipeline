@@ -1,0 +1,1611 @@
+VTO data matrix taxa count:14198
+Open tree file taxa count:38265
+
+The number of VTO taxa that is mismatched with OT tree file:1257
+The number of VTO taxa that is matched with OT tree file:12941
+
+####################################################################################
+####################################################################################
+The number of mismatched taxa that is extinct:63
+Saurorhamphus freyeri
+Batrachoides nidificans
+Joffrichthys triangulpterus
+Beryx radians
+Beryx microcephalus
+Phractocephalus nassi
+Idiacanthus trispinosus
+Astroscopus countermani
+Cretophareodus alberticus
+Beryx zippei
+Genartina texana
+Batrachoides antiquior
+Idiacanthus cameratus
+Corydoras revelatus
+Idiacanthus bellistriatus
+Eosolea formosa
+Lampanyctus latesulcatus
+Enchodus gracilis
+Enchodus brevis
+Cimolichthys nepaholica
+Myripristis homopterygius
+Tautoga (Protautoga) conidens
+Holocentrum pygaeum
+Eosolea bartonensis
+Nematonotus bottae
+Phareodus encaustus
+Bolcyrus formosissimus
+Enchodus shumardi
+Eosolea subglabra
+Holocentrum pygmaeum
+Palaeolycus dreginensis
+Ranzania grahami
+Voltaconger latispinus
+Enchodus gladiolus
+Beryx germanus
+Eosolea texana
+Phractocephalus acreornatus
+Albula dunklei
+Brychaetus muelleri
+Joffrichthys symmetropterus
+Enchodus venator
+Taubateia paraiba
+Albula eppsi
+Hoplopteryx antiquus
+Albula lapidosa
+Brachyplatystoma promagdalena
+Rharbichthys ferox
+Myripristis leptacanthus
+Teratichthys antiquitatus
+Austromola angerhoferi
+Ranzania tenneyorum
+Lampadena jacksoni
+Eosolea claibornensis
+Channa elliptica
+Parenchodus longipterygius
+Phareodus testis
+Eurypholis pulchellus
+Eurypholis boissieri
+Enchodus petrosus
+Eosolea aquitanica
+Claibornichthys troelli
+Genartina hampshirensis
+Enchodus marchesettii
+
+
+The number of mismatched taxa that has sp. in name (improper naming):377
+Glyptothorax sp. (de Pinna 1993)
+Genus 2 (Bockmann 1998)
+Genus 7 sp. (Bockmann 1998)
+Parotocinclus sp. (Britto 2003)
+Arius sp. (Schaefer 1990)
+Stegophilus sp. (Schaefer 1990)
+Phractura sp. (Mo 1991)
+Imparfinis sp. B (Bockmann 1998)
+Diplomystes sp. (de Pinna 1993)
+Pterodoras sp. (Kailola 2004)
+Akysis sp. (de Pinna 1993)
+Coregonus sp. (Fink and Fink 1981)
+Salmo sp. (Fink and Fink 1981)
+Gymnocorymbus sp. (Fink and Fink 1981)
+Clarias sp. (Fink and Fink 1981)
+Carpiodes sp. (Siebert 1987)
+Orinocodoras sp. (Royero 1999)
+Chiloglanis sp. E (Vigliotta 2008)
+Astroblepus sp. (Britto 2003)
+Farlowella sp. (de Pinna 1993)
+Decapogon sp. (Schaefer 1987)
+Leptodoras sp. (Vigliotta 2008)
+Pareiorhina sp. (Armbruster 2004)
+Farlowella sp. (Schaefer 1987)
+Dianema sp. (Kailola 2004)
+Oxyropsis sp. (de Pinna 1993)
+Ancistrus sp. (Britz and Hoffman 2006)
+Garra sp. (Coburn and Cavender 1992)
+Scopaeocharax sp. (Burns et al 1995)
+Ictalurus sp. (Fink and Fink 1981)
+Pterygoplichthys sp. (Schaefer 1987)
+Exastilithoxus sp. (Armbruster 2004)
+Esox sp. (Poyato-Ariza 1996)
+Loricariidae sp. (Mo 1991)
+Sturisoma sp. (Schaefer 1987)
+Elops sp. (DiDario 2004)
+Corydoras sp. (Mo 1991)
+Genus 5 sp. B (Bockmann 1998)
+Hoplomyzon sp. (Friel 1994)
+Micralestes cf. elongatus (Zanata and Vari 2005)
+Creagrutus sp. (Fink and Fink 1981)
+Synodontis sp. (de Pinna 1993)
+Roeboides sp. B (Lucena and Menezes 1998)
+Ixinandria sp. (Britto 2003)
+Gonorynchus sp. (Grande and Poyato-Ariza 1999)
+Glyptothorax sp. (de Pinna 1996)
+Pyrrhulina sp. (Vari 1995)
+Tatia sp. (de Pinna 1993)
+Loricaria sp. (Friel 1994)
+Garra sp. ''Discognathichthys'' (Coburn and Cavender 1992)
+Myoglanis sp. (Bockmann 1998)
+Xyliphius cf. melanopterus (Friel 1994)
+Zaireichthys sp. B (Vigliotta 2008)
+Ageneiosus cf. guianensis (Mo 1991)
+Euchilichthys sp. A (Vigliotta 2008)
+Characidium cf. zebra (Buckup 1998)
+Astroblepus festae sp. 2 (Mo 1991)
+Gyrinocheilus sp. (Fink and Fink 1981)
+Neoplecostomus sp. (Schaefer 1990)
+Otothyris sp. (Schaefer 1991)
+Chiloglanis sp. G (Vigliotta 2008)
+Hypostomus sp. round snout 2 (Armbruster 2004)
+Hoplomyzon n. sp. (Friel 1994)
+Erethistes sp. (de Pinna 1993)
+Arius sp. (Royero 1999)
+Chiloglanis sp. A (Vigliotta 2008)
+Ageneiosus sp. 3 (Mo 1991)
+Tyttocharax sp. (Burns et al 1995)
+Amaralia n. sp. (Friel 1994)
+Pterobunocephalus sp. (Friel 1994)
+Hypoptopoma sp. (Schaefer 1991)
+Vandellia sp. (Fink and Fink 1981)
+Planaltina sp. (Burns et al 1995)
+Astroblepus sp. (Fink and Fink 1981)
+Micralestes cf. acutidens (Zanata and Vari 2005)
+Scoloplax sp. (de Pinna 1993)
+Microlepidogaster sp. (Armbruster 2004)
+Clupeomorpha sp. 1 (Zaragueta 2004)
+Characidium sp. (Fink and Fink 1981)
+Argopleura sp. (Weitzman and Fink 1985)
+Corydoras barbatus sp. II (Britto 2003)
+Pangasius sp. (de Pinna 1993)
+Roeboides sp. A (Lucena and Menezes 1998)
+Leporinus cf. ecuadorensis (Sidlauskas and Vari 2008)
+Trichomycteridae sp. (de Pinna 1993)
+Opsariichthys sp. (Cavender and Coburn 1992)
+Ichthyborus sp. (Fink and Fink 1981)
+Gyrinocheilus sp. (Siebert 1987)
+Notropis sp. "sawfin shiner" (Coburn and Cavender 1992)
+Charax sp. (Buckup 1998)
+Rita sp. (Kailola 2004)
+Phractura sp. (de Pinna 1993)
+Cetopsorhamdia sp. n. A (Bockmann 1998)
+cf. Arius macrorhynchus (Kailola 2004)
+Cetopsorhamdia sp. n. B (Bockmann 1998)
+Akysis sp. 2 (Chen 1994)
+Engraulis sp. (Arratia 1999)
+Chiloglanis sp. B (Vigliotta 2008)
+Erethistes sp. (Chen 1994)
+Pareiorhina sp. (Britto 2003)
+Brycon sp. (Lucena and Menezes 1998)
+Albula sp. (Fink and Fink 1981)
+Auchenipterichthys sp. (de Pinna 1993)
+Sturisoma sp. (Friel 1994)
+Microlepidogaster sp. (Schaefer 1991)
+Tyttocharax sp. A (Weitzman and Fink 1985)
+Chaetostoma sp. (Friel 1994)
+Citharinus sp. (DiDario 2004)
+Astroblepus sp. (Armbruster 2004)
+Cetopsidae sp. (de Pinna 1993)
+Panaque sp. (Friel 1994)
+Allothrissops sp. (Arratia 1999)
+Bunocephalus sp. (de Pinna 1996)
+Catostomus sp. (Fink and Fink 1981)
+Neoplecostomus sp. (Schaefer 1991)
+Phreatobius sp. 2 (de Pinna 1993)
+Megalancistrus sp. (Schaefer 1987)
+Gagata sp. (de Pinna 1993)
+Roestes sp. (Lucena and Menezes 1998)
+Xyliphius cf. lepturus (Friel 1994)
+Osteoglossum sp. (de Pinna and Grande 2003)
+Synodontis sp. (Royero 1999)
+Ancistrus sp. (Britto 2003)
+Erethistes sp. (de Pinna 1996)
+Bagrichthys sp. 1 (de Pinna 1993)
+Akysis sp. 1 (Chen 1994)
+Hysteronotus sp. (Weitzman and Menezes 1998)
+Auchenipterus sp. (de Pinna 1993)
+Tetranematichthys n. sp. (Royero 1999)
+Loricaria sp. (Armbruster 2004)
+Neosilurus sp. 1 (de Pinna 1993)
+Hypostomus sp. round snout 1 (Armbruster 2004)
+Mesoborus sp. (Fink and Fink 1981)
+Bunocephalus sp. (de Pinna 1993)
+Otothyris sp. (Britto 2003)
+Phenacorhamdia sp. B (Bockmann 1998)
+Genus 6 sp. (Bockmann 1998)
+Trachydoras sp. (Vigliotta 2008)
+Platystacus sp. (Mo 1991)
+Phenacorhamdia sp. D (Bockmann 1998)
+Bunocephalus n. sp. 5 (Friel 1994)
+Ictalurus sp. (Mo 1991)
+Gladioglanis sp. A (Bockmann 1998)
+Leptoglanis sp. (de Pinna 1993)
+Scleromystax sp. (Britto 2003)
+Humbertia sp. (Arratia 1999)
+Hemisorubim sp. (de Pinna 1993)
+Arius sp. (Kailola 2004)
+Bunocephalus n. sp. 4 (Friel 1994)
+Trichomycterus sp. (Schaefer 1990)
+Chasmocranus sp. (de Pinna 1993)
+Loricariichthys sp. (Schaefer 1987)
+Imparfinis sp. n. (Bockman 1998)
+Genus 7 (Bockmann 1998)
+Anaethalion cf. A. subovatus (Arratia 1999)
+Distichodus sp. (Sidlauskas and Vari 2008)
+Ageneiosus sp. (Soares-Porto 1998)
+Hemiancistrus sp. (Armbruster 2004)
+Kneria sp. (DiDario 2004)
+Ageneiosus sp. (de Pinna 1993)
+Pimelodella sp. n. (Bockmann 1998)
+Euchilichthys sp. B (Vigliotta 2008)
+Phenacorhamdia sp. C (Bockmann 1998)
+Pachythrissops sp. (Arratia 1999)
+Centromochlus sp. (Rio Negro) (Royero 1999)
+Phenacorhamdia sp. A (Bockmann 1998)
+Pterygoplichthys sp. (de Pinna 1993)
+Chiloglanis sp. C (Vigliotta 2008)
+Neosilurus sp. 2 (de Pinna 1993)
+Austroglanis sp. (de Pinna 1993)
+Chiloglanis sp. (de Pinna 1993)
+Chaetostomus sp. (Britto 2003)
+Loricariinae sp. (Friel 1994)
+Astroblepus festae sp. 3 (Mo 1991)
+Trachyglanis sp. (de Pinna 1993)
+Liposarcus sp. (Friel 1994)
+Genus 12 (Bockmann 1998)
+Hypoptopoma sp. (Britto 2003)
+Hypostomus sp. (de Pinna 1993)
+Poecilocharax sp. (Fink and Fink 1981)
+Hypoptopoma sp. (Armbruster 2004)
+Chrysichthys sp. 2 (de Pinna 1993)
+Ameiurus sp. (Vigliotta 2008)
+Corydoras n. sp. (Britto 2003)
+Thrissops cf. T. formosus (Arratia 1999)
+Hemiodus sp. (Fink and Fink 1981)
+Phractura sp. (Vigliotta 2008)
+Astroblepus sp. (de Pinna 1993)
+Otocinclus sp. (Schaefer 1987)
+Neosilurus sp. (Kailola 2004)
+Limatulichthys sp. (Britto 2003)
+Kronichthys sp. (Schaefer 1987)
+Copella sp. (Vari 1995)
+Glyptothorax sp. (Friel 1994)
+Trachelyichthys n. sp. 2 (Royero 1999)
+Pseudobunocephalus sp. (Friel 1994)
+Genus 2 sp. B (Bockmann 1998)
+Cetopsidium sp. (de Pinna, Ferraris and Vari 2007)
+Mystus sp. (Kailola 2004)
+Genus 2 sp. A (Bockmann 1998)
+Loricaria sp. (Britto 2003)
+Trachycorystes sp. (de Pinna 1993)
+Leporinus cf. moralesi (Sidlauskas and Vari 2008)
+Chiloglanis sp. D (Vigliotta (2008)
+Hemiancistrus sp. Brazil (Armbruster 2004)
+Ameiurus sp. (de Pinna 1993)
+Loricariichthys sp. (Britto 2003)
+Bunocephalus n. sp. 3 (Friel 1994)
+Ictiobus sp. (Siebert 1987)
+Pseudancistrus sp. (Armbruster 2004)
+Pseudopimelodus sp. (Friel 1994)
+Ageneiosus sp. 1 (Mo 1991)
+Synodontis sp. (Vigliotta 2008)
+Megalonema sp. (de Pinna 1993)
+Loricaria sp. (Schaefer 1987)
+Bunocephalus sp. (Mo 1991)
+Tyttocharax sp. B (Weitzman and Fink 1985)
+Kronichthys sp. 1 (Armbruster 2004)
+Platydoras sp. (Royero 1999)
+Bunocephalus sp. (Fink and Fink 1981)
+Hollandichthys sp. (DiDario 2004)
+Genus 5 (Bockmann 1998)
+Pterodoras sp. (Royero 1999)
+Centromochlus n. sp. (Royero 1999)
+Pseudopimelodus sp. (de Pinna 1993)
+Bunocephalus sp. 3 (Chen 1994)
+Farlowella sp. (Britto 2003)
+Sternopygus sp. (Fink and Fink 1981)
+Ictalurus sp. (Vigliotta 2008)
+Rineloricaria sp. (Britto 2003)
+Lycoptera davidi cf. L. tokunagai (Arratia 1999)
+Pseudoloricaria sp. (Britto 2003)
+Exostoma sp. (de Pinna 1996)
+Entomocorus sp. (de Pinna 1993)
+Genus 1 (Royero 1999)
+Rhamdia sp. (Kailola 2004)
+Leiocassis sp. (Mo 1991)
+Amphilius sp. B (Vigliotta 2008)
+Clarias sp. (de Pinna 1993)
+Bunocephalus sp. 2 (Chen 1994)
+Chiloglanis sp. F (Vigliotta 2008)
+Wallago sp. (Mo 1991)
+Citharinus sp. (Sidlauskas and Vari 2008)
+Compasaria sp. 1 (Albert 2001)
+Neoplecostomus sp. (Britto 2003)
+Liobagrus cf. marginatus (Mo 1991)
+Neoplecostomus sp. (de Pinna 1993)
+Aspidoparia sp. (Siebert 1987)
+Trachelyopterus sp. (Vigliotta 2008)
+Schizolecis sp. (Britto 2003)
+Kronichthys sp. 2 (Armbruster 2004)
+Corydoras barbatus sp. I (Britto 2003)
+Hydrocynus cf. brevis (Zanata and Vari 2005)
+Esox sp. (Fink and Fink 1981)
+Osteogeneiosus sp. (Mo 1991)
+Cnidoglanis sp. (Mo 1991)
+Hybognathus sp. (Coburn and Cavender 1992)
+Amblydoras sp. (Friel 1994)
+Leporinus cf. niceforoi (Sidlauskas and Vari 2008)
+Akysis sp. 1 (de Pinna 1996)
+Microglanis sp. (de Pinna 1993)
+Heteropneustes sp. (de Pinna 1993)
+Brycon sp. (Fink and Fink 1981)
+Sternarchogiton sp. B (Albert 2001)
+Imparfinis sp. A (Bockmann 1998)
+Peckoltia sp. big spot (Armbruster 2004)
+Imparfinis sp. cf. minutus (Bockman 1998)
+Zaireichthys sp. A (Vigliotta 2008)
+Ernstichthys sp. (de Pinna 1996)
+Pseudopimelodus sp. 2 (Shibatta 1991)
+Peckoltia sp. 2 (Armbruster 2004)
+Distichodus sp. (Fink and Fink 1981)
+Pimelodella sp. B (Bockmann 1998)
+Hypostomus sp. (Britto 2003)
+Panaque sp. (de Pinna 1993)
+Amphilius sp. A (Vigliotta 2008)
+Bunocephalus cf. knerii (Friel 1994)
+Rhamdiopsis sp. n. A (Bockmann 1998)
+Leporinus cf. fasciatus (Sidlauskas and Vari 2008)
+Eutropius sp. (de Pinna 1993)
+Leptodoras sp. (Friel 1994)
+Hoplomyzon cf. papillatus (Friel 1994)
+Microlepidogaster sp. (Britto 2003)
+Leptorhamdia sp. (Bockmann 1998)
+Bunocephalus sp. 1 (Chen 1994)
+Ernstichthys sp. (Friel 1994)
+Pseudancistrus sp. gold spot (Armbruster 2004)
+Hemidoras sp. (Vigliotta 2008)
+Henonemus sp. (Schaefer 1990)
+Hypoptopoma sp. (Schaefer 1987)
+Malapterurus sp. (Vigliotta 2008)
+Adontosternarchus sp. (Fink and Fink 1981)
+Helogenes sp. (Mo 1991)
+Abramites sp. (Fink and Fink 1981)
+Hemipsilichthys sp. (Armbruster 2004)
+Synodontis ? sp. (Royero 1999)
+Propimelodus sp. (Mo 1991)
+Auchenipterus sp. (cuyuni) (Royero 1999)
+Microsynodontis sp. (Vigliotta 2008)
+Parotocinclus sp. (Schaefer 1991)
+Lycoptera cf. L. sinensis (Arratia 1999)
+Pimelodella sp. A (Bockmann 1998)
+Tridentopsis sp. (Schaefer 1990)
+Peckoltia sp. 1 (Armbruster 2004)
+Harttia sp. (Armbruster 2004)
+Planiloricaria sp. (Britto 2003)
+Ompok sp. (de Pinna 1993)
+Acrochordonichthys sp. (de Pinna 1993)
+Apareiodon sp. (Fink and Fink 1981)
+Bunocephalus sp. (Friel 1994)
+Euchilichthys sp. C (Vigliotta 2008)
+Synodontis sp. (Mo 1991)
+Pseudotothyris sp. (Schaefer 1991)
+Akysis sp. (Friel 1994)
+Genus 5 sp. A (Bockmann 1998)
+Ageneiosus sp. 2 (Mo 1991)
+Xyliphius sp. (Chen 1994)
+Pseudopimelodus sp. 1 (Shibatta 1991)
+Ellopostoma sp. (Siebert 1987)
+Rhinodoras sp. (Vigliotta 2008)
+Pristigaster sp. (DiDario 1999)
+Bagrichthys sp. 2 (de Pinna 1993)
+Akysis sp. 3 (de Pinna 1996)
+Acentronichthys sp. n. B (Bockmann 1998)
+Diplomystes sp. (Vigliotta 2008)
+Gephyrocharax sp. (Weitzman and Fink 1985)
+Silurichthys sp. (Bornbusch 1991)
+Megalops sp. (Fink and Fink 1981)
+Genus sp. 1 (Royero 1999)
+Cetopsorhamdia sp. n. C (Bockmann 1998)
+Lasiancistrus sp. (Armbruster 2004)
+Acrobrycon sp. (Burns et al 1995)
+Bunocephalus n. sp. 2 (Friel 1994)
+Genus 12 sp. (Bockmann 1998)
+Astephus sp. (Lundberg 1992)
+Ancistrus sp. (Armbruster 2004)
+Micralestes sp. (Zanata and Vari 2005)
+Ernstichthys sp. (de Pinna 1993)
+Crossoloricaria sp. (Armbruster 2004)
+Hypostomus sp. (Schaefer 1990)
+Astroblepus festae sp. 1 (Mo 1991)
+Entomocorus n. sp. (Royero 1999)
+Lebiasina sp. (Vari 1995)
+Chrysichthys sp. 1 (de Pinna 1993)
+Genus C species C (Malabarba 1998)
+Pseudobunocephalus cf. bifidus (Friel 1994)
+Thrissops cf. T. subovatus (Arratia 1999)
+Pterygoplichthys sp. (Vigliotta 2008)
+Trachelyopterus sp. (de Pinna 1993)
+Anaethalion sp. (Arratia 1999)
+Centrodoras sp. (Vigliotta 2008)
+Callichthys sp. (Mo 1991)
+Corydoras sp. A (Britto 2003)
+Akysis sp. 2 (de Pinna 1996)
+Exostoma sp. (Chen 1994)
+Hypostomus sp. (Schaefer 1987)
+Glyptothorax sp. (Chen 1994)
+Amblygaster sp. (DiDario 2004)
+Exostoma sp. (de Pinna 1993)
+Ctenolucius sp. (Fink and Fink 1981)
+Hoplias cf. malabaricus (Vari 1995)
+Genus 6 (Bockmann 1998)
+Phreatobius sp. 1 (de Pinna 1993)
+Kneria sp. (Grande and Poyato-Ariza 1999)
+Homaloptera sp. (Fink and Fink 1981)
+Corydoras sp. (de Pinna 1993)
+Genus 11 sp. (Bockmann 1998)
+Eigenmannia sp. (Fink and Fink 1981)
+Astroblepus sp. (Schaefer 1990)
+Carpiodes sp. (Fink and Fink 1981)
+Reganella sp. (Britto 2003)
+Genus 11 (Bockmann 1998)
+Bunocephalus n. sp. 1 (Friel 1994)
+Lipopterichthys sp. (Britto 2003)
+Imparfinis sp. (de Pinna 1993)
+Oxyropsis sp. (Schaefer 1991)
+Aspidoras cf. pauciradiatus (Britto 2003)
+
+
+The remaining mismatches list:817
+Hippocampus europaeus
+Patagonotothen shagensis
+Leiocassis similis
+Salarias basilisca
+Rivulus tocantinensis
+Kryptopterus eugeneiatus
+Ageneiosus valenciennesi
+Aspidoras aff. poecilus (Britto 2003)
+Megalebias wolterstorffi
+Homaloptera smithi
+Lycoptera davidi
+Pseudotrematomus scotti
+Hippocampus planifrons
+Malapterurus baarbatus
+Canthigaster rostratus
+Liparis quasimodo
+Megalodoras granulosus
+Hypsoblennius hentzi
+Ctenopoma fasciolatum
+Hippocampus chinensis
+Platybelone platura
+Duboisialestes tumbensis
+Rivulus amanan
+Rivulus jurubatibensis
+Ellimmichthys goodi
+Odax acroptilus
+Farlowella platoryncus
+Heterandria litoperas
+Isorineloricaria spinosissimus
+Synodontis fascipinna
+Pseudotrematomus lepidorhinus
+Hime purpurissata
+Chiloglanis batesii
+Chrionema pallidum
+Electrona subasper
+Nothobranchius mkuziensis
+Moringua raitaborus
+Hypsidoris farsonensis
+Monotrete brevirostris
+Doryrhamphus multiannulatus
+Phenacorhamdia tenuis
+Nannoplecostomus eleonorae
+Lipophrys adriaticus
+Plicofollis angyropleuron
+Protriacanthus gortanii
+Procatopus kabae
+Procatopus loemensis
+Bathophilus metallicus
+Muraenichthys malabonensis
+Cyprinus buggenhagii
+Xyrichtys woodi
+Cottus altaicus
+Microphis biocellatus
+Astephus resimus
+Bassanago albescens
+Hemiancistrus itacua
+Centromochlus marthae
+Microphis ocellatus
+Cathorops higuchi
+Limnothrissa stappersii
+Oligancistrus punctatissimus
+Alutera monoceros
+Sciades sona
+Solea nasuta
+Rivulus kayabi
+Aseraggodes pavoninus
+Neoarius coatesi
+Platybelone lovii
+Isorineloricaria spinosissma
+Rivulus pinima
+Simpsonichthys flavicaudatus
+Lebias anatoliae
+Prohollardia avita
+Tharrhias araripis
+Chrionema squamentum
+Ramallichthys orientalis
+Lipophrys dalmatinus
+Xenobalistes caeruleolineatus
+Brachirus salinarum
+Iniistius javanicus
+Luisichthys vinalesensis
+Eolates gracilis
+Andamia expansa
+Gila alvordensis
+Ariopsis seemanni
+Parapteronotus bonapartii
+Simpsonichthys constanciae
+Trachelyichthys n. sp 1 (Royero 1999)
+Hippocampus tuberculatus
+Scoloplax baileyi
+Pseudotrematomus tokarevi
+Synodontis marmorata
+Balistomorphus spinosus
+Chlorophthalmus agassiz
+Microphis platyrhynchus
+Halidesmus waltairiensis
+Phalloceros malabarai
+Gymnothorax prionodon
+Diplomystus dubertreti
+Orestias frontosus
+Leptolepides haerteisi
+Eomola bimaxillaria
+Brachysynodontis batensoda
+Soleichthys multifasciatus
+Archaeotetraodon jamestyleri
+Ompok siluroides
+Pseudoscopelus albeolus
+Bothus thompsoni
+Rivulus salmonicaudus
+Exoglossum maxillingua
+Sympterichthys politus
+Uncisudis longirostris
+Thamnaconus garretti
+Protoclupea chilensis
+Knightia bohaiensis
+Simpsonichthys magnificus
+Scartichthys xiphiodon
+Rivulus illuminatus
+Channa pleurophthalmus
+Astyanax incaocus
+Parapercis mimaseana
+Parasilurus asotus
+Salarias reticulatus
+Hippocampus takakurae
+Lycodes fasciatus
+Cryptobalistes brevis
+Channa striatus
+Himantolophus rostratus
+Paranotothenia trigramma
+Plotosus anguillaris
+Poecilothrissa congica
+Gymnelus barsukovi
+Glyptoperichthys lituratus
+Plectocretacicus clarae
+Liosaccus pachygaster
+Clarotes macrocephalus
+Amblydoras bolivarensis
+Hemiarius kessleri
+Cynopanchax bukobanus
+Barbus callensis
+Tharsis dubius
+Halichoeres chrysotaenia
+Scobinichthys granulosus
+Synodontis ornatissima
+Hypostomus cordovae
+Hypostomus butantanis
+Canthidermis maculatus
+Chatrabus damaranus
+Pagothenia phocae
+Protoclupea atacamensis
+Rivulus bororo
+Hexanematichthys mastersi
+Archaeotetraodon winterbottomi
+Parotocinclus halbothi
+Antennablennius sexfasciatus
+Heterandria obliqua
+Thrissops cephalus
+Pelteobagrus nudiceps
+Lophiodes abdituspinus
+Arius latiscutatus
+Omobranchus lineolatus
+Simpsonichthys chacoensis
+Rasbora dusonensis 2 (Cavender and Coburn 1992)
+Bembrops philippinus
+Erethistes serratus
+Microglanis aff. iberingi (Shibatta 1998)
+Rivulus megaroni
+Trachinotus bailloni
+Austrolebias vasferreirai
+Notarius troschelii
+Sinopangasius semicultratus
+Antennarius senegalensis
+Symphurus arabicus
+Cirrhilabrus ryukyuensis
+Laimosemion ubim
+Syngnathus hymenolomus
+Pseudotrematomus pennellii
+Tautoga (Protautoga)
+Batrichthys felinus
+Simpsonichthys izecksohni
+Epiplatys steindachneri
+Synodontis guttata
+Albula goreensis
+Halicampus crinitus
+Hippocampus taeniopterus
+Sardinella janeiro
+Monocentris japonica
+Poeciliopsis letoni
+Stemonosudis elongatus
+Chlorophthalmus productus
+Hisonotus candombe
+Navodon xanthopterus
+Anguilla borneensis
+Rivulus kiroskyi
+Synaphobranchus capensis
+Aplocheilichthys nimbaensis
+Leiuranus cyclorhinus
+Rhinecanthus echarpe
+Tylosurus imperialis
+Solea lascaris
+Leptolepis coryphaenoides
+Poecilia parae
+Astyanax novae
+Antennarius drombus
+Hippocampus villosus
+Hypostomus emarginatus 1 (Armbruster 2004)
+Spectrolebias reticulatus
+Hypostomus commersonii
+Cottus haemusi
+Zenopsis nebulosa
+Phaenomonas forsteri
+Hippocampus dahli
+Platybelone trachura
+Hippichthys cyanospilus
+Oreoglanis pumatensis
+Lipophrys velifer
+Pseudobagrus wittenburgii
+Cretatriacanthus guidottii
+Mystriophis porphyreus
+Festucalex townsendi
+Homaloptera gymnogaster
+Ostracion clippertonense
+Chionodraco kathleenae
+Ostichthys sufensis
+Synodus houlti
+Chelonodon fluviatilis
+Lycodes colletti
+Synodontis zanzibarica
+Pseudocoris philippina
+Dastilbe moraesi
+Lacustricola lualabaensis
+Creedia bilineatus
+Ariopsis assimilis
+Scartichthys fernandezensis
+Sciades felis
+Patagonotothen occidentalis
+Doras fimbriatus
+Leptocephalus thorianus
+Pseudobagrus ransonnettii
+Stomias pacificus
+Zungaro luetkeni
+Compsaraia compsus
+Gordichthys conquensis
+Neoarius velutinus
+Gymnelus platycephalus
+Astephus antiquus
+Dexillus muelleri
+Hime formosanus
+Bothrocara tanakae
+Zignodon fornasieroae
+Brycinus aff. nurse (Zanata and Vari 2005)
+Selene setipinnis
+Hemipsilichthys? (Armbruster 2004)
+Synodontis leoparda
+Regalecus pacificus
+Halieutopsis nasuta
+Rivulus cearensis
+Zebrias japonica
+Halichoeres kneri
+Acanthopleurus serratus
+Megalocottus taeniopterus
+Brachirus selheimi
+Phoxocampus kampeni
+Cottus kuznetzovi
+Plotosus brevibarbus
+Vladichthys gloverensis
+Zebrias cochinensis
+Plancterus zebrinus
+Synodontis punctulata
+Channichthys normani
+Glyptothorax sausii
+Gila boraxobius
+Paralipophrys trigloides
+Syngnathus pellegrini
+Domeykos profetaesis
+Pseudoscopelus vityazi
+Zebrasoma veliferum
+Notropis dorsalis
+Lipophrys bauchotae
+Clupeonella muhlsi
+Antennarius dorehensis
+Antennarius ocellatus
+Tachysurus mica
+Parapercis tetracanthus
+Zaireichthys rhodesiensis
+Solea orientalis
+Simpsonichthys igneus
+Spinacanthus cuneiformis
+Trichomycterus anhanga
+Synodontis caudovittata
+Antennarius scriptissimus
+Symphurus sayademalhensis
+Gelanoglanis tracieso
+Melletes papilio
+Caulophryne bacescui
+Epiplatys infrafasciatus
+Mystus elongatus
+Aphyosemion jeanpoli
+Corythoichthys isigakius
+Neoarius latirostris
+Xyrichtys pentadactylus
+Xyrichtys bimaculatus
+Comephorus baikalensis
+Ophichthus fowleri
+Rivulus planaltinus
+Careproctus entomelas
+Notarius phrygiatus
+Rivulus lazzarotoi
+Rivulus vittatus
+Synaptura nigra
+Platybelone argalus
+Pseudobagrus nitidus
+Hoplostethus racurictus
+Danio erythromicron
+Hippocampus natalensis
+Stomias colubrinus
+Proaracana dubia
+Alosa pontica
+Rivulus crixas
+Antennarius radiosus
+Barbus versluysii
+Caranx otrynter
+Cyprinella zanema
+Paratrachichthys pulsator
+Gymnodraco victori
+Muraenesox yamaguchiensis
+Ipnops pristibrachium
+Scomberoides commersonianus
+Nemapteryx caelatus
+Brachaluteres fahaqa
+Doryrhamphus dactyliophorus
+Rhinecanthus rectangularis
+Bathycongrus baranesi
+Symphodus ocellaris
+Stlegicottus scutiger
+Pseudocaranx cheilio
+Microphis yoshi
+Zignoichthys oblongus
+Microphis aculeatus
+Halichoeres hyrtlii
+Platybelone annobonensis
+Nemacheilus savona
+Pellona mayrinki
+Tarletonbeania tenua
+Paranotothenia angustata
+Catathyridium lorentzi
+Bolcabalistes varii
+Liauchenoglanis maculatus
+Pseudoscopelus microps
+Aethiomastacembelus liberiensis
+Ophisurus rotundus
+Syngnathus acicularis
+Conger marginatus
+Gymnothorax miliais
+Paralichthys coeruleosticta
+Pseudolabrus crassilabris
+Arothron perspicillaris
+Acrossocheilus labiatus
+Parbatmya brazosensis
+Chrionema chlorotaenia
+Gymnoscopelus aphya
+Parika scaber
+Synaptura annularis
+Fundulopanchax sjoestedti
+Arius parkii
+Mastacembelus ubangensis
+Ammodytes idai
+Halichoeres annularis
+Hypostomus plecostomus 1 (Armbruster 2004)
+Eospinus daniltshenkoi
+Cottus japonicus
+Rhynchocypris oxycephalus
+Simpsonichthys mediopapillatus
+Aplocheilichthys atripinnis
+Pseudolabrus mortonii
+Uropterygius goslinei
+Fundulopanchax kribianus
+Hippocampus moluccensis
+Bothus ypsigrammus
+Microphis millepunctatus
+Hippocampus suezensis
+Rhinecanthus rectanguls
+Labrus cyaedus
+Belone euxini
+Nothobranchius kiyawensis
+Encheliophis dubius
+Synodontis resupinata
+Solea bleekeri
+Acanthostracion polygonia
+Varasichthys ariasi
+Hemibagrus johorensis
+Bovichtus elongatus
+Notarius bonillai
+Barchatus cirrhosa
+Trichiurus nanhaiensis
+Chascanopsetta danae
+Protacanthodes nimesensis
+Lycodes gracilis
+Osmerus dentex
+Alticus orientalis
+Laimosemion jauaperi
+Chirolophis snyderi
+Ompok krattensis
+Simpsonichthys flagellatus
+Tylosurus fodiator
+Mastacembelus brevicauda
+Platybelone pterura
+Lactoria fornasini
+Scomberoides moadetta
+Pseudotrematomus eulepidotus
+Artedidraco loennbergi
+Gymnothorax kikako
+Synodus cresseyi
+Gymnothorax argus
+Astyanax vermulion
+Phalacronotus micronema
+Mastacembelus flavomarginatus
+Pachythrissops laevis
+Charitosomus major
+Clupea pallasi
+Hippocampus bicuspis
+Scartichthys rubropunctatus
+Balistes villosus
+Coloconger saldanhai
+Harpagifer marionensis
+Istiblennius enosimae
+Sciades platypogon
+Gymnothorax ruepellii
+Anaethalion knorri
+Triphoturus microchir
+Nematogenys cuivi
+Anaethalion angustus
+Neostethus geminus
+Hypostomus emarginatus 2 (Armbruster 2004)
+Pseudotrematomus nicolai
+Coreobagrus okadai
+Chelidonichthys gurnardus
+Procatopus cabindae
+Ornategulum sardinoides
+Acanthopleurus collettei
+Diplomystus solignaci
+Pterolebias hoignei
+Bryx heraldi
+Nimbapanchax melanopterygiuus
+Liparis takashimensis
+Antennarius duescus
+Saurenchelys elongatum
+Aulopus nanae
+Antennarius multioccelatus
+Charitopsis spinosus
+Aspistor insculptus
+Helicolenus hilgendorfii
+Gephyroglanis congicus
+Protacanthodes ombonii
+Paruroconger drachi
+Poecilia zonata
+Erichalcis arcta
+Hippocampus polytaenia
+Parachanos aethiopicus
+Chrionema squamiceps
+Pterygoplichthys anisitsi
+Chilomycterus reticulartus
+Rivulus giarettai
+Pseudobagrus hoi
+Megalebias elongatus
+Lycodes schmidti
+Caecomastacembelus moorii
+Microphis vaillantii
+Nototheniops larseni
+Simpsonichthys semiocellatus
+Corydoras bertoni
+Holocentrus adscensionsis
+Lycoptera sinensis?
+Paraclupea chetungensis
+Limia nicholsi
+Acentronura mossambica
+Halicampus vittatus
+Diplomystus birdi
+Caecomastacembelus cryptacanthus
+Simpsonichthys janaubensis
+Crystallodytes enderburyensis
+Lampanyctus bensoni
+Rhamdia quelin
+Bodianus albostriatus
+Pachythrissops propterus
+Orthogonikleithrus leichi
+Hemiancistrus pankimpuju
+Syngnathus heptagonus
+Lacustricola moeruensis
+Rivulus gaucheri
+Eoplectus bloti
+Sprattus phalerica
+Arius danicus
+Judeichthys haasi
+Laciris pelagicus
+Microphis lineatus
+Niwaella multifasciata
+Chrionema furunoi
+Pterygoplichthys ambrosettiii
+Arius harmandi
+Rivulus javahe
+Ellimmichthys longicostatus
+Festucalex amakusensis
+Myxocephalus quadricornis
+Triglopsis quadricornis
+Halicampus ensenadae
+Pseudeutropius atherinoides
+Micronema cheveyi
+Hypostomus plecostomus 2 (Armbruster 2004)
+Synodontis cuangoana
+Rhabdoblennius rhadotrachelus
+Pardachirus rautheri
+Pseudotocinclus jaquiae
+Rivulus riograndensis
+Thrissops regleyi
+Notropis buccatus
+Leptolepides sprattiformis
+Melanostomias spilorhynchus
+Bathophilus novicki
+Sphyraena asotus
+Archiaphyosemion petersi
+Aspistor luniscutis
+Oligolactoria bubiki
+Elassoma evergladi
+Protobalistum imperialis
+Amphichthys hildebrandi
+Sardinella dayi
+Leptocephalus holti
+Gnathagnus elongatus
+Poecilothrissa moeruensis
+Nelusetta ayraud
+Rhynchocypris poljakowi
+Aphyosemion viride
+Pseudotrematomus loennbergii
+Leiocassis longispinalis
+Synodontis notata
+Synodus amaranthus
+Micropanchax pumilus
+Syngnathus argentatus
+Pseudotrematomus vicarius
+Micropanchax rudolfianus
+Notogoneus osculus
+Rivulus rubromarginatus
+Mastacembelus aculeatus
+Electrona rissoi
+Antennarius analis
+Corythoichthys conspicillatus
+Soleonasus finis
+Aphyosemion obscurum
+Alticus aldabraensis
+Harengula jaaguana
+Megacheirodon unicus
+Simpsonichthys costai
+Fundulus notti
+Glyptothorax pallozonus
+Leptocephalus proboscideus
+Carpathospinosus propheticus
+Caranx ruber
+Ariosoma sanzoi
+Allothrissops mesogaster
+Synodontis melanoptera
+Aseraggodes smithi
+Monotrete ocellaris
+Trichomycterus cachiaensis
+Rivulus kirovskyi
+Glyptothorax horai
+Monochirus atlanticus
+Chiasmodon lavenbergi
+Chiasmodon bolangeri
+Doumea alula
+Pseudobagrus pictus
+Synodontis kogoensis
+Lampanyctus gemmifer
+Trichomycterus quechuorum
+Phenacogrammus altus
+Mastacembelus batesii
+Microdevario kubotai
+Cosmocampus coccineus
+Strabozebrias cancellatus
+Selar crumenmophthalmus
+Triodon antiquus
+Ageneiosus rondoni
+Lagocephalus cheesemanii
+Halichoeres dimidiatus
+Halichoeres penrosei
+Platybelone platyura
+Pachythrissops vectensis
+Heterandria cataractae
+Acanthopleurus trispinosus
+Malthopsis retfera
+Micrognathus pygmaeus
+New genus (Schaefer 1991)
+Encheliophis boraborensis
+Hemisynodontis membranaceus
+Acanthopsoides graciroides (Sawada 1982)
+Phoxinus perenurus
+Rivulus sucubti
+Solea triophthalma
+Cyprinodon hubbsi
+Bathophilus cwyanorum
+Pholidophorus bechei
+Hara filamentosus
+Phrynorhombus regius
+Rivulus faucireticulatus
+Moclaybalistes danekrus
+Aphyosemion microphtalmum
+Rhynchostracion nasus
+Aplocheilichthys loati
+Muraenesox ferox
+Aethalionopsis robustus
+Lebias fasciatus
+Alticus magnusi
+Liparis niger
+Lagocephalus guntheri
+Xyrichtys cyanifrons
+Liparis meridionalis
+Gila bicolor
+Orthogonikleithrus hoelli
+Solea hexophthalma
+Netuma proxima
+Cyprinus niloticus
+Anguilla huangi
+Trachinotus glaucus
+Diplomystus dentatus
+Acanthurus sandvicensis
+Aphyosemion bochtleri
+Sympterichthys verrucosus
+Rhynchocypris oxycephala
+Nipponocypris temminckii
+Dastilbe elongatus
+Syngnathus acusimilis
+Oxycheilinus digrammus
+Simpsonichthys bokermanni
+Simpsonichthys harmonicus
+Rivulus xinguensis
+Rivulus karaja
+Pseudobagrus longirostris
+Notoscopelus kroyeri
+Hippocampus tristis
+Ichthyscopus inermis
+Poeciliopsis sonoriensis
+Thalassoma septemfasciatum
+Aplocheilichthys pumilis
+Careproctus entargyreus
+Albula argentea
+Tharrhias rochae
+Synodontis melanosticta
+Pseudotrematomus hansoni
+Notropis boucardi
+Merodoras nheco
+Doryrhamphus paulus
+Lindbergichthys nudifrons
+Doryrhamphus melanopleura
+Parapteronotus bonaparti
+Pachythrissops furcatus
+Pseudobagrus virgatus
+Malacosteus indicus
+Tylosurus melanotus
+Clupea bentincki
+Eolates aquensis
+Acheilognathus intermedius (Siebert 1987)
+Brachypetersius gabonensis
+Odax cyanomelas
+Stemonosudis similis
+Heptadiodon echinus
+Synodontis multimaculata
+Acanthaluteres brwonii
+Hemiarius maculatus
+Liparis barbatus
+Orestias agassii
+Selar crumnophthalmus
+Notarius quadriscutis
+Liparis ingens
+Soleichthys nigrostriolatus
+Siderea pictus
+Corydoras esperanze
+Armigatus brevissimus
+Ancistrus albihoai
+Trichiurus nitens
+Mastacembelus goro
+Ostracion camurun
+Hippocampus arnei
+Gnathagnus egregius
+Barbourichthys zanzibaricus
+Tetraodon leiurus
+Astronesthes barbatus
+Rivulus paresi
+Prodiodon erinaceus
+Rivulus igneus
+Solegnathus naso
+Acentronura breviperula
+Ancistrus sp (Hoffmann and Britz 2006)
+Corythoichthys waitei
+Mastacembelus sclateri
+Lipophrys canevae
+Nemacheilus rupecula
+Alosa curensis
+Lampanyctus cupriarius
+Aulotrachichthys fernandezianus
+Ompok anostomus
+Synodontis ilebrebis
+Anaethalion angustissimus
+Synodontis aterrima
+Parapercis naevosa
+Pseudobagrus vachellii
+Leuciscus cephalus
+Synodontis macropunctata
+Pseudobagarius kyphus
+Hippocampus bleekeri
+Hippocampus kampylotrachelos
+Eolactoria sorbinii
+Amarginops hildae
+Hippocampus manadensis
+Pictichromis caitinae
+Uropterygius makatei
+Pangasius micronema
+Chilomycterus atringa
+Mystus fortis
+Antennarius bermudensis
+Ophichthus altipennis
+Balistomorphus ovalis
+Trachyrhamphus bicoractatus
+Antennarius sanguineus
+Ascalabos voithii
+Antennarius rosaceus
+Balistomorphus orbiculatus
+Tetraodon cutcutia
+Holtbyrnia melanocephala
+Pterolebias zonatus
+Rubiesichthys gregalis
+Poecilia dominicensis
+Eubalichthys quadrispinus
+Paratrachichthys novaezelandicus
+Hypophthalmus longifilis
+Notropis sallaei
+Nototheniops loesha
+Pelteobagrus argentivittatus
+Ophichthus rotidoderma
+Belone acus
+Mystus guilio
+Alepes melanoptra
+Synodontis macrophthalma
+Echiophis mordax
+Coreobagrus ichikawai
+Hypsopanchax modestus
+Sciades emphysetus
+Cichlasoma facetum
+Ariopsis guatemalensis
+Xyrichtys twistii
+Symphurus novemfasciatus
+Oligobalistes robustus
+Synodontis vermiculata
+Echiodon anchiperus
+Sorbinichthys elusivo
+Phaenomonas foresti
+Paralichthys oblongus
+Astephus calvus
+Simpsonichthys hellneri
+Melanocetus polyactis
+Kryptopterus bleekeri
+Duopalatinus olallae
+Blennius maoricus
+Halichoeres lamarii
+Charitosomous lineolatus
+Caecomastacembelus frenatus
+Ariosoma gnanadossi
+Pshekhadiodon parini
+Tetraodon cochinchinensis
+Poropanchax myersi
+Chilomycterus schoepfi
+Choeroichthys valencienni
+Rita itchkeea
+Astyanax rutilus
+Ompok mysoricus
+Simpsonichthys flammeus
+Rhamdia parvus
+Antennablennius velifer
+Pseudoscopelus stellatus
+Careproctus cryptacanthoides
+Synodontis dorsomaculata
+Synodontis albolineata
+Achiropsis nattereri
+Prodiodon tenuispinus
+Kali caribbaea
+Dastilbe crandalli
+Cathorops festae
+Tischlingerichthys viohli
+Clupeonella tscharchalensis
+Ichthyapus acutirostris
+Parapterygotrigla multiocellata
+Thrissops subovatus
+Liparis lindbergi
+Thalassoma quinquevittatus
+Notarius rugispinis
+Heterandria jonesii
+Eotetraodon pygmaeus
+Aphyosemion melinoeides
+Heterandria dirempta
+Tylosurus rafale
+Centromochlus musaica
+Chrionema chryseres
+Pelteobagrus sinensis
+Simpsonichthys antenori
+Ophisoma prorigerum
+Lindbergichthys mizops
+Brachypetersius altus
+Charitosomus hakelensis
+Ophichthus lithinus
+Doryrhamphus extensus
+Rhombus minimus
+Heterandria anzuetoi
+Paraliparis wildi
+Gambusia rachovii
+Rivulus uraenis
+Pseudobagrus taphraphilus
+Channomuraena bennettii
+Chauliodus slaoni
+
+
+out of the remaining mismatched taxa There are 42 VTOtaxa that is in the Open tree Database but they were not in the final open tree file
+VTO_name	OTname
+Diplomystus dubertreti	Diplomystus dubertreti
+Eosolea bartonensis	Eosolea bartonensis
+Chrionema furunoi	Chrionema furunoi
+Eosolea formosa	Eosolea formosa
+Chrionema chlorotaenia	Chrionema chlorotaenia
+Pachythrissops vectensis	Pachythrissops vectensis
+Mastacembelus brevicauda	Mastacembelus brevicauda
+Parbatmya brazosensis	Parbatmya brazosensis
+Armigatus brevissimus	Armigatus brevissimus
+Chrionema squamiceps	Chrionema squamiceps
+Barbus versluysii	Barbus versluysii
+Eosolea subglabra	Eosolea subglabra
+Mastacembelus goro	Mastacembelus goro
+Mastacembelus batesii	Mastacembelus batesii
+Diplomystus dentatus	Diplomystus dentatus
+Mastacembelus ubangensis	Mastacembelus ubangensis
+Eosolea texana	Eosolea texana
+Charitosomus major	Charitosomus major
+Chrionema chryseres	Chrionema chryseres
+Chrionema squamentum	Chrionema squamentum
+Eosolea aquitanica	Eosolea aquitanica
+Notoscopelus kroyeri	Notoscopelus elongatus kroyeri
+Mastacembelus sclateri	Mastacembelus sclateri
+Chiloglanis batesii	Chiloglanis batesii
+Alosa curensis	Alosa curensis
+Cimolichthys nepaholica	Cimolichthys nepaholica
+Ellimmichthys longicostatus	Ellimmichthys longicostatus
+Claibornichthys troelli	Claibornichthys troelli
+Chrionema pallidum	Chrionema pallidum
+Pachythrissops laevis	Pachythrissops laevis
+Diplomystus birdi	Diplomystus birdi
+Eosolea claibornensis	Eosolea claibornensis
+Charitosomus hakelensis	Charitosomus hakelensis
+Glyptothorax pallozonus	Glyptothorax pallozonus
+Notogoneus osculus	Notogoneus osculus
+Eurypholis boissieri	Eurypholis boissieri
+Enchodus petrosus	Enchodus petrosus
+Genartina texana	Genartina texana
+Brachypetersius altus	Brachypetersius altus
+Pholidophorus bechei	Pholidophorus bechei
+Genartina hampshirensis	Genartina hampshirensis
+Tetraodon cutcutia	Leiodon cutcutia
+
+
+####################################################################################
+the mismatched taxa with finloss
+
+the mismatched taxa pectoral fin propagated with finloss: 24
+Caecomastacembelus frenatus	0
+Gymnothorax prionodon	0
+Saurenchelys elongatum	0
+Aethiomastacembelus liberiensis	0
+Gymnothorax miliais	0
+Uropterygius makatei	0
+Siderea pictus	0
+Mastacembelus brevicauda	0
+Mastacembelus flavomarginatus	0
+Mastacembelus goro	0
+Gymnothorax kikako	0
+Mastacembelus ubangensis	0
+Gymnothorax argus	0
+Symphurus novemfasciatus	0
+Caecomastacembelus moorii	0
+Mastacembelus sclateri	0
+Uropterygius goslinei	0
+Symphurus arabicus	0
+Gymnothorax ruepellii	0
+Mastacembelus batesii	0
+Caecomastacembelus cryptacanthus	0
+Mastacembelus aculeatus	0
+Channomuraena bennettii	0
+Symphurus sayademalhensis	0
+
+the mismatched taxa pectoral fin unpropagated with finloss: 0
+
+the mismatched taxa pelvic fin propagated with finloss: 118
+Hippocampus europaeus	0
+Hippocampus polytaenia	0
+Bolcyrus formosissimus	0
+Muraenesox ferox	0
+Anguilla borneensis	0
+Trichiurus nanhaiensis	0
+Synaphobranchus capensis	0
+Paruroconger drachi	0
+Leiuranus cyclorhinus	0
+Mastacembelus brevicauda	0
+Hippocampus suezensis	0
+Hippocampus chinensis	0
+Hippocampus villosus	0
+Anguilla huangi	0
+Gymnothorax kikako	0
+Gymnothorax argus	0
+Syngnathus acicularis	0
+Voltaconger latispinus	0
+Hippocampus bicuspis	0
+Hippocampus dahli	0
+Hippocampus tristis	0
+Hippichthys cyanospilus	0
+Mystriophis porphyreus	0
+Festucalex townsendi	0
+Gymnothorax ruepellii	0
+Moringua raitaborus	0
+Cosmocampus coccineus	0
+Corythoichthys conspicillatus	0
+Doryrhamphus multiannulatus	0
+Hippocampus arnei	0
+Doryrhamphus paulus	0
+Leptocephalus thorianus	0
+Doryrhamphus melanopleura	0
+Parapteronotus bonaparti	0
+Bryx heraldi	0
+Saurenchelys elongatum	0
+Microphis biocellatus	0
+Bassanago albescens	0
+Microphis ocellatus	0
+Siderea pictus	0
+Hippocampus planifrons	0
+Trichiurus nitens	0
+Phoxocampus kampeni	0
+Muraenichthys malabonensis	0
+Caecomastacembelus moorii	0
+Solegnathus naso	0
+Acentronura breviperula	0
+Microphis vaillantii	0
+Syngnathus pellegrini	0
+Corythoichthys waitei	0
+Mastacembelus sclateri	0
+Micrognathus pygmaeus	0
+Acentronura mossambica	0
+Parapteronotus bonapartii	0
+Halicampus vittatus	0
+Caecomastacembelus cryptacanthus	0
+Hippocampus bleekeri	0
+Hippocampus kampylotrachelos	0
+Microphis platyrhynchus	0
+Hippocampus manadensis	0
+Festucalex amakusensis	0
+Syngnathus heptagonus	0
+Ophichthus altipennis	0
+Gymnothorax prionodon	0
+Corythoichthys isigakius	0
+Trachyrhamphus bicoractatus	0
+Hippocampus takakurae	0
+Ophichthus fowleri	0
+Hippocampus moluccensis	0
+Uropterygius makatei	0
+Halicampus ensenadae	0
+Hippocampus natalensis	0
+Ophichthus rotidoderma	0
+Echiophis mordax	0
+Ichthyapus acutirostris	0
+Muraenesox yamaguchiensis	0
+Echiodon anchiperus	0
+Doryrhamphus dactyliophorus	0
+Phaenomonas foresti	0
+Leptocephalus holti	0
+Melanocetus polyactis	0
+Bathycongrus baranesi	0
+Syngnathus hymenolomus	0
+Himantolophus rostratus	0
+Syngnathus argentatus	0
+Ariosoma gnanadossi	0
+Mastacembelus aculeatus	0
+Microphis aculeatus	0
+Aethiomastacembelus liberiensis	0
+Hippocampus tuberculatus	0
+Choeroichthys valencienni	0
+Caecomastacembelus frenatus	0
+Coloconger saldanhai	0
+Leptocephalus proboscideus	0
+Ariosoma sanzoi	0
+Ophisurus rotundus	0
+Conger marginatus	0
+Gymnothorax miliais	0
+Parbatmya brazosensis	0
+Mastacembelus flavomarginatus	0
+Mastacembelus goro	0
+Mastacembelus batesii	0
+Mastacembelus ubangensis	0
+Phaenomonas forsteri	0
+Ophisoma prorigerum	0
+Microphis lineatus	0
+Syngnathus acusimilis	0
+Uropterygius goslinei	0
+Encheliophis boraborensis	0
+Ophichthus lithinus	0
+Microphis yoshi	0
+Doryrhamphus extensus	0
+Microphis millepunctatus	0
+Paraliparis wildi	0
+Halicampus crinitus	0
+Hippocampus taeniopterus	0
+Encheliophis dubius	0
+Channomuraena bennettii	0
+
+the mismatched taxa pelvic fin unpropagated with finloss: 21
+Prodiodon tenuispinus	0
+Sternarchogiton sp. B (Albert 2001)	0
+Oligolactoria bubiki	0
+Protobalistum imperialis	0
+Archaeotetraodon winterbottomi	0
+Archaeotetraodon jamestyleri	0
+Spinacanthus cuneiformis	0
+Prodiodon erinaceus	0
+Eotetraodon pygmaeus	0
+Compasaria sp. 1 (Albert 2001)	0
+Compsaraia compsus	0
+Eigenmannia sp. (Fink and Fink 1981)	0
+Zignoichthys oblongus	0
+Eolactoria sorbinii	0
+Pristigaster sp. (DiDario 1999)	0&1
+Zignodon fornasieroae	0
+Pshekhadiodon parini	0
+Adontosternarchus sp. (Fink and Fink 1981)	0
+Sternopygus sp. (Fink and Fink 1981)	0
+Heptadiodon echinus	0
+Proaracana dubia	0
+
+####################################################################################
+There are 4532 that that match by only NCBI ids 
+There are 9666 that that is mismatched by only NCBI ids 
+
+
+There are 12848 that that match by only names 
+There are 1350 that that is mismatched by only names 
+There are 107 that do not match by name but are matching by NCBI ids 
+
+VTO_name	OTname
+Aphyosemion guineense	Archiaphyosemion guineense
+Rivulus rubrolineatus	Anablepsoides rubrolineatus
+Synodontis serrata	Synodontis serratus
+Simpsonichthys trilineatus	Hypsolebias trilineatus
+Aphanius persicus	Aphanius farsicus
+Rivulus waimacui	Anablepsoides waimacui
+Synodontis contracta	Synodontis contractus
+Synodontis granulosa	Synodontis granulosus
+Vieja synspila	Paraneetroplus synspilus
+Cyclocheilichthys armatus	Anematichthys armatus
+Rivulus luelingi	Atlantirivulus luelingi
+Pelteobagrus intermedius	Tachysurus intermedius
+Synodontis leopardina	Synodontis leopardinus
+Psetta maxima	Scophthalmus maximus
+Phoxinus oreas	Chrosomus oreas
+Rivulus deltaphilus	Anablepsoides deltaphilus
+Synodontis congica	Synodontis congicus
+Synodontis filamentosa	Synodontis filamentosus
+Synodontis angelica	Synodontis angelicus
+Rivulus pictus	Melanorivulus pictus
+Rivulus cryptocallus	Anablepsoides cryptocallus
+Rivulus frommi	Cynodonichthys frommi
+Rivulus iridescens	Anablepsoides iridescens
+Simpsonichthys myersi	Xenurolebias myersi
+Epalzeorhynchos frenatum	Epalzeorhynchos frenatus
+Rivulus immaculatus	Anablepsoides immaculatus
+Rivulus tenuis	Cynodonichthys tenuis
+Notoscopelus kroyeri	Notoscopelus elongatus kroyeri
+Pelteobagrus eupogon	Tachysurus eupogon
+Pareuchiloglanis gongshanensis	Creteuchiloglanis gongshanensis
+Pseudotrematomus centronotus	Trematomus centronotus
+Phoxinus erythrogaster	Chrosomus erythrogaster
+Brochis britskii	Corydoras britskii
+Vieja fenestrata	Paraneetroplus fenestratus
+Rivulus isthmensis	Cynodonichthys isthmensis
+Rivulus apiamici	Melanorivulus apiamici
+Pareuchiloglanis kamengensis	Creteuchiloglanis kamengensis
+Rivulus breviceps	Laimosemion breviceps
+Pseudobagrus brevianalis	Tachysurus brevianalis
+Rivulus punctatus	Melanorivulus punctatus
+Vieja maculicauda	Paraneetroplus maculicauda
+Cichlasoma ramsdeni	Nandopsis ramsdeni
+Rivulus fuscolineatus	Cynodonichthys fuscolineatus
+Notropis harperi	Pteronotropis harperi
+Rivulus lyricauda	Laimosemion lyricauda
+Rivulus magdalenae	Cynodonichthys magdalenae
+Chromaphyosemion koungueense	Aphyosemion koungueense
+Antennarius avalonis	Fowlerichthys avalonis
+Puntius conchonius	Pethia conchonius
+Rivulus strigatus	Laimosemion strigatus
+Rivulus gransabanae	Laimosemion gransabanae
+Rivulus xiphidius	Laimosemion xiphidius
+Antennarius coccineus	Antennatus coccineus
+Rivulus brunneus	Cynodonichthys brunneus
+Rivulus mahdiaensis	Laimosemion mahdiaensis
+Rivulus tecminae	Laimosemion tecminae
+Rivulus urophthalmus	Anablepsoides urophthalmus
+Pareuchiloglanis macropterus	Creteuchiloglanis macropterus
+Caranx bartholomaei	Carangoides bartholomaei
+Lianolebias stellifer	Llanolebias stellifer
+Rivulus geayi	Laimosemion geayi
+Lepidocephalus guntea	Lepidocephalichthys guntea
+Rivulus rectocaudatus	Laimosemion rectocaudatus
+Synodontis violacea	Synodontis violaceus
+Synodontis flavitaeniata	Synodontis flavitaeniatus
+Tetraodon cutcutia	Leiodon cutcutia
+Pseudomystus fuscus	Nanobagrus fuscus
+Rivulus hildebrandi	Cynodonichthys hildebrandi
+Doras punctatus	Ossancora punctata
+Triglopsis quadricornis	Myoxocephalus quadricornis
+Rivulus weberi	Cynodonichthys weberi
+Rivulus janeiroensis	Atlantirivulus janeiroensis
+Benthalbella macropinna	Lagiacrusichthys macropinnis
+Rivulus santensis	Atlantirivulus santensis
+Rivulus stagnatus	Anablepsoides stagnatus
+Synodontis frontosa	Synodontis frontosus
+Doryrhamphus dactyliophorus	Dunckerocampus dactyliophorus
+Synodontis euptera	Synodontis eupterus
+Aulopus purpurissatus	Latropiscis purpurissatus
+Rivulus chucunaque	Cynodonichthys chucunaque
+Heterandria bimaculata	Pseudoxiphophorus bimaculatus
+Chromaphyosemion poliaki	Aphyosemion poliaki
+Macrotocinclus flexilis	Otocinclus flexilis
+Synodontis decora	Synodontis decorus
+Opsodoras ternetzi	Nemadoras ternetzi
+Phoxinus neogaeus	Chrosomus neogaeus
+Phoxinus eos	Chrosomus eos
+Synodontis nebulosa	Synodontis nebulosus
+Simpsonichthys costai	Spectrolebias costai
+Solea cadenati	Pegusa cadenati
+Rivulus ophiomimus	Anablepsoides ophiomimus
+Rivulus agilae	Laimosemion agilae
+Aphyosemion maeseni	Epiplatys maeseni
+Lipophrys nigriceps	Microlipophrys nigriceps
+Microphis brachyurus	Oostethus brachyurus
+Puntius filamentosus	Dawkinsia filamentosus
+Phoxinus cumberlandensis	Chrosomus cumberlandensis
+Antennarius nummifer	Antennatus nummifer
+Rivulus haraldsiolii	Atlantirivulus haraldsiolii
+Rivulus uroflammeus	Cynodonichthys uroflammeus
+Rivulus frenatus	Laimosemion frenatus
+Pseudotrematomus bernacchii	Trematomus bernacchii
+Rivulus hartii	Anablepsoides hartii
+Synodontis multipunctata	Synodontis multipunctatus
+Leiocassis crassilabris	Pseudobagrus crassilabris
+Rivulus jucundus	Anablepsoides jucundus
+Rivulus amphoreus	Anablepsoides amphoreus

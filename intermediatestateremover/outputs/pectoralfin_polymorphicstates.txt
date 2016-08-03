@@ -1,0 +1,42 @@
+polymorpic state statistics for pectoral fin
+total number of taxa: 16
+
+
+number of families: 12
+Congridae
+       Nelson_Fin_Loss_1-28-15.xml
+Clariidae
+       Wiley, E.O., and Johnson, G.D. (2010)
+       Nelson_Fin_Loss_1-28-15.xml
+Moringuidae
+       Nelson_Fin_Loss_1-28-15.xml
+Gobiesocidae
+       Nelson_Fin_Loss_1-28-15.xml
+Syngnathidae
+       Nelson_Fin_Loss_1-28-15.xml
+Chlopsidae
+       Nelson_Fin_Loss_1-28-15.xml
+Ophichthidae
+       Nelson_Fin_Loss_1-28-15.xml
+Synaphobranchidae
+       Nelson_Fin_Loss_1-28-15.xml
+Achiropsettidae
+       Nelson_Fin_Loss_1-28-15.xml
+Achiridae
+       Nelson_Fin_Loss_1-28-15.xml
+Stomiidae
+       Nelson_Fin_Loss_1-28-15.xml
+Soleidae
+       Nelson_Fin_Loss_1-28-15.xml
+
+number of genera: 3
+Chlopsis
+       Nelson_Fin_Loss_1-28-15.xml
+Xenoconger
+       Nelson_Fin_Loss_1-28-15.xml
+Mastacembelus
+       Nelson_Fin_Loss_1-28-15.xml
+
+number of species: 1
+Neocyema erythrosoma
+       Nelson_Fin_Loss_1-28-15.xml
