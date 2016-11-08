@@ -1,4 +1,6 @@
 # VTO_to_opentree_pipeline
+https://zenodo.org/badge/64852544.svg
+
 The pipeline that converts ontotrace to open tree matrix
 
 The open tree pipeline
