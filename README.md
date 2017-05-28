@@ -118,19 +118,29 @@ State 0 BOTH ABSENT
 State 1 PECTORAL ABSENT
 
 0 and ?
+
 0&1 and ?
+
 0 and 1
+
 0 and 2
+
 0&1 and 1
+
 0&1 and 2
 
 State 2 PELVIC ABSENT
 
 ? and 0
+
 ? and 0&1
+
 1 and 0
+
 1 and 0&1
+
 2 and 0
+
 2 and 0&1
 
 State 3 NO/UNKNOWN ABSENCE
