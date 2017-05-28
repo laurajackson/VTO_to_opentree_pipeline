@@ -16,11 +16,11 @@ The description of the codes is given below.
 This code converts the nexml character matrix downloaded from ontotrace into a tab delimited format, which is suitable to proceed through the pipeline. It correctly identifies the conflict states and writes ‘0 and 1’ for them. It also detects empty cell with missing data and writes ‘?’ for those cells. This code works for any matrix with any number of characters downloaded from ontotrace in nexml format.
 
 ### input
-the ontotrace matrix in nexml format (should be a .xml file)
+	the ontotrace matrix in nexml format (should be a .xml file)
 
 ### outputs
 
-tabdelemited_charactermatrix.txt  : The nexml matrix converted into tab delemited format. This is the input for the next code
+	tabdelemited_charactermatrix.txt  : The nexml matrix converted into tab delemited format. This is the input for the next code
 
 
 ## 2. matrixpreprocessor.py
@@ -30,26 +30,26 @@ prints all the taxa into a separate file
 Also removes the missing taxa ( ones with two ? for both pelvic and pectoral fins) and prints the statistics
 
 ### input
-original trimmed input matrix
-vtonewfinal.owl: VTO ontology file gives the relationships of VTO
+	original trimmed input matrix
+	vtonewfinal.owl: VTO ontology file gives the relationships of VTO
 
 ### outputs
-missingremoved_matrix.txt: the matrix after the removal of missing taxa
-originaldatamatrix_taxalist.txt: taxa list of the original matrix
-alltaxa.txt: all taxa separated into levels
-missingtaxa.txt: missing taxa separated into levels
+	missingremoved_matrix.txt: the matrix after the removal of missing taxa
+	originaldatamatrix_taxalist.txt: taxa list of the original matrix
+	alltaxa.txt: all taxa separated into levels
+	missingtaxa.txt: missing taxa separated into levels
 
 
 ## 3. conflict_state_remover.py: 
 The second step of the pipeline is to remove polymorphic states (0&1) from the internal nodes of the data matrix. This code detects taxa with '0&1' and separates them according to taxa level. Prints the literature sources for each taxa, and this code also replaces the 0&1 of internal nodes by ‘?’.
 
 ### input:
-the xml files for fins: pectoral.xml or pelvic.xml (depending on which fin you want) 
-missingremoved_matrix.txt: the original onto trace data matrix after the removal of missing taxa(without any processing)
+	the xml files for fins: pectoral.xml or pelvic.xml (depending on which fin you want) 
+	missingremoved_matrix.txt: the original onto trace data matrix after the removal of missing taxa(without any processing)
 
 ### Outputs:
-intermediatecounts.txt: Contains the number of taxa that that has 0&1 states and their source paper where the data is coming from
-intermediate_removed_datamatrix.txt: the data matrix where the 0&1 state of internal nodes are replaced by ‘?’. All the species level taxa still keep 0&1 states
+	intermediatecounts.txt: Contains the number of taxa that that has 0&1 states and their source paper where the data is coming from
+	intermediate_removed_datamatrix.txt: the data matrix where the 0&1 state of internal nodes are replaced by ‘?’. All the species level taxa still keep 0&1 states
  
 ## 4. inferredpresencereplace.py: 
 This scripts detects the taxa with inferred presence and changes the state of the presence from ‘1’ to ‘2’. This new state is printed on new column. The original two columns for pelvic and pectoral fin will be kept without change.
