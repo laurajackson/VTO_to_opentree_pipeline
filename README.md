@@ -1,26 +1,24 @@
 # VTO_to_opentree_pipeline
 https://zenodo.org/badge/64852544.svg
 
-The pipeline that converts ontotrace to open tree matrix
-
-The open tree pipeline
+The pipeline that converts ontotrace matrix to a matrix that can be mapped to a open tree phylogeny
 
 This file gives information about the different codes in the open tree pipeline
 
 The pipeline is used to convert an ontotrace data matrix (which has VTO taxa) into open tree format, so it can be mapped to open tree file.
 
-The input to the pipeline is the tab delimited data file that contains data for pectoral and pelvic fins.
+The input to the pipeline is a nexml file that contains data for pectoral and pelvic fins. This file was downloaded from ontotrace web interface in phenoscape knowledgebase. This pipeline also needs a meta data files in xml formart for pectoral and pelvic fin, which can be requested from the phenoscape team. The taxonomic reconciliation step requires the open tree phylogeny downloaded from open tree. It requires list of open tree taxa.
 
 The description of the codes is given below.
 
-## 1.nexml_to_txt_converter.py
+## 1. nexml_to_txt_converter.py
 
 This code converts the nexml character matrix downloaded from ontotrace into a tab delimited format, which is suitable to proceed through the pipeline. It correctly identifies the conflict states and writes ‘0 and 1’ for them. It also detects empty cell with missing data and writes ‘?’ for those cells. This code works for any matrix with any number of characters downloaded from ontotrace in nexml format.
 
-input
+### input
 the ontotrace matrix in nexml format (should be a .xml file)
 
-outputs
+### outputs
 
 tabdelemited_charactermatrix.txt  : The nexml matrix converted into tab delemited format. This is the input for the next code
 
