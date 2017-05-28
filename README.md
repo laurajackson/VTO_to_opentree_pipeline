@@ -124,7 +124,7 @@ State 1 PECTORAL ABSENT
 
 State 2 PELVIC ABSENT
 
-? and 0\n
+? and 0
 ? and 0&1
 1 and 0
 1 and 0&1
