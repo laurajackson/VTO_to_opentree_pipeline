@@ -1,0 +1,219 @@
+polymorpic state statistics for pelvic fin
+total number of taxa: 82
+
+
+number of families: 50
+Megalomycteridae
+       Wiley, E.O., and Johnson, G.D. (2010)
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Schilbidae
+       Nelson_Fin_Loss_1-28-15.xml
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Pseudochromidae
+       Nelson_Fin_Loss_1-28-15.xml
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Ostraciidae
+       Wiley, E.O., and Johnson, G.D. (2010)
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+       Nelson_Fin_Loss_1-28-15.xml
+Channidae
+       Nelson_Fin_Loss_1-28-15.xml
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Gobiesocidae
+       Nelson_Fin_Loss_1-28-15.xml
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+       Wiley, E.O., and Johnson, G.D. (2010)
+Rivulidae
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Trichomycteridae
+       Nelson_Fin_Loss_1-28-15.xml
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Liparidae
+       Nelson_Fin_Loss_1-28-15.xml
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Trachipteridae
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+       Wiley, E.O., and Johnson, G.D. (2010)
+Balistidae
+       Wiley, E.O., and Johnson, G.D. (2010)
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+       Nelson_Fin_Loss_1-28-15.xml
+Tetraodontidae
+       Wiley, E.O., and Johnson, G.D. (2010)
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+       Nelson_Fin_Loss_1-28-15.xml
+Labridae
+       Nelson_Fin_Loss_1-28-15.xml
+Stylephoridae
+       Wiley, E.O., and Johnson, G.D. (2010)
+       Nelson_Fin_Loss_1-28-15.xml
+Carapidae
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Belonidae
+       Nelson_Fin_Loss_1-28-15.xml
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Aphyonidae
+       Nelson_Fin_Loss_1-28-15.xml
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Ereuniidae
+       Nelson_Fin_Loss_1-28-15.xml
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Notopteridae
+       Nelson_Fin_Loss_1-28-15.xml
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Blenniidae
+       Nelson_Fin_Loss_1-28-15.xml
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Bythitidae
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Macrouridae
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Creediidae
+       Nelson_Fin_Loss_1-28-15.xml
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Galaxiidae
+       Nelson_Fin_Loss_1-28-15.xml
+Cyclopteridae
+       Nelson_Fin_Loss_1-28-15.xml
+Siluridae
+       Nelson_Fin_Loss_1-28-15.xml
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Osteoglossidae
+       Nelson_Fin_Loss_1-28-15.xml
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Carangidae
+       Nelson_Fin_Loss_1-28-15.xml
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Phallostethidae
+       Nelson_Fin_Loss_1-28-15.xml
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Odacidae
+       Nelson_Fin_Loss_1-28-15.xml
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Platytroctidae
+       Nelson_Fin_Loss_1-28-15.xml
+Cottidae
+       Nelson_Fin_Loss_1-28-15.xml
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Radiicephalidae
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+       Wiley, E.O., and Johnson, G.D. (2010)
+Amblyopsidae
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Stichaeidae
+       Nelson_Fin_Loss_1-28-15.xml
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Ophididae
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Goodeidae
+       Nelson_Fin_Loss_1-28-15.xml
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Gasterosteidae
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Molidae
+       Wiley, E.O., and Johnson, G.D. (2010)
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+       Nelson_Fin_Loss_1-28-15.xml
+Cyprinodontidae
+       Nelson_Fin_Loss_1-28-15.xml
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Xiphiidae
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Clariidae
+       Nelson_Fin_Loss_1-28-15.xml
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Lophotidae
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+       Wiley, E.O., and Johnson, G.D. (2010)
+Zoarcidae
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Triodontidae
+       Wiley, E.O., and Johnson, G.D. (2010)
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Pholidae
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Pristigasteridae
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Clupeidae
+       Nelson_Fin_Loss_1-28-15.xml
+Ammodytidae
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+       Nelson_Fin_Loss_1-28-15.xml
+Trichiuridae
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+
+number of genera: 24
+Ophidiiformes
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Halimuraena
+       Nelson_Fin_Loss_1-28-15.xml
+Rusichthys
+       Nelson_Fin_Loss_1-28-15.xml
+Osteoglossiformes
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Haliophis
+       Nelson_Fin_Loss_1-28-15.xml
+Atheriniformes
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Blennodesmus
+       Nelson_Fin_Loss_1-28-15.xml
+Stephanoberyciformes
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Cyprinodontiformes
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Gasterosteiformes
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Scorpaeniformes
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Natalichthys
+       Nelson_Fin_Loss_1-28-15.xml
+Aulopiformes
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Halimuraenoides
+       Nelson_Fin_Loss_1-28-15.xml
+Halidesmus
+       Nelson_Fin_Loss_1-28-15.xml
+Percopsiformes
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Clupeiformes
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Beloniformes
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Lophiiformes
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Perciformes
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Siluriformes
+       Fink, S. V, &amp; Fink, W. L. (1981);  Fink, S. V, &amp; Fink, W. L. (1996)
+       Albert, J. S. (2001)
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Gadiformes
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Tetraodontiformes
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+Lampriformes
+       Yamanoue, Y., Setiamarga, D. H. E., &amp; Matsuura, K. (2010)
+
+number of species: 8
+Gymnallabes typus
+       De Pinna, M. C. (1993)
+       Nelson_Fin_Loss_1-28-15.xml
+Glanapteryx anguilla
+       Nelson_Fin_Loss_1-28-15.xml
+Channallabes apus
+       De Pinna, M. C. (1993)
+       Nelson_Fin_Loss_1-28-15.xml
+Rachycentron canadum
+       O’Toole, B. (2002)
+       Nelson_Fin_Loss_1-28-15.xml
+Gasterosteus aculeatus
+       Nelson_Fin_Loss_1-28-15.xml
+       Bowne, P. S. (1994)
+       McLennan, D. A., &amp; Mattern, M. Y. (2001)
+Dolichallabes microphthalmus
+       De Pinna, M. C. (1993)
+       Nelson_Fin_Loss_1-28-15.xml
+Pristigaster sp. (DiDario 1999)
+       Dario, F. Di. (1999)
+Pristigaster cayana
+       Dario, F. Di. (1999)

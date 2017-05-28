@@ -2,11 +2,13 @@
 # Date 07/20/2016
 # This code adds a new column to the final opentreematrix by analyzing the loss or presence of paired fin data (together as combination)
 # it introduces 4 states for the different combinations
+# This code is not part of the generic pipeline.
+# It was only used because we want to study the evolution of both pectoral and pelvic fins together as paired fin
+__author__ = 'pasan fernando'
+
 ################################################################################
 import re
 import collections
-
-
 
 par ={}
 paired ={}
@@ -16,7 +18,9 @@ pel =[]
 presence=[]
 missing =[]
 
+# opening the input matrix with open tree names
 da = open('finalopentree_matrix_onlydata.txt', 'r')
+
 for line in da:
     line = line.strip()
     if (line != '\n') and ('taxa_name' not in line):
@@ -52,7 +56,10 @@ for line in da:
 print par
 print len(par)
 
+# defining the output file
 out1 = open('Teleostei_presence_absence_pipeline_output.txt', 'wb+')
+
+# writing the header
 out1.write('taxa_name\tpectoral_fin\tpelvic_fin\tpectoral_inferred\tpelvic_inferred\tpectoral_propagated\tpelvic_propagated\tpaired_fin\n')
 
 for i in par:
@@ -60,6 +67,8 @@ for i in par:
 
 print both
 print len(both)
+
+# writing the statistics of paired fin analysis in the paired_fin_analysis_stats file
 
 out2 = open('paired_fin_analysis_stats.txt', 'wb+')
 out2.write('The total taxa in the matrix: %s\n'%(len(par)))

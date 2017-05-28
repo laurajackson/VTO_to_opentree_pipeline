@@ -1,0 +1,8 @@
+The total taxa in the matrix: 12581
+Here are the statistics for the paired fin analyses
+
+The number for both fins absent (state 0): 486
+The number for only pectoral fin absent (state 1): 15
+The number for only pelvic fin absent (state 2): 1652
+The number for no absences (state 3): 10428
+The number for both missing taxa: 0
