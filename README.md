@@ -110,7 +110,9 @@ Combinations
 State 0 BOTH ABSENT
 
 0 and 0
+
 0&1 and 0
+
 0 and 0&1
 
 State 1 PECTORAL ABSENT
