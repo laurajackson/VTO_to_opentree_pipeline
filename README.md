@@ -25,12 +25,12 @@ This code converts the nexml character matrix downloaded from ontotrace into a t
 
 ## 2. matrixpreprocessor.py
 
-Takes the original tab delemited matrix file. 
+Takes the tab delemited matrix file. 
 prints all the taxa into a separate file
 Also removes the missing taxa ( ones with two ? for both pelvic and pectoral fins) and prints the statistics
 
 ### input
-	original trimmed input matrix
+	tabdelemited_charactermatrix.txt
 	vtonewfinal.owl: VTO ontology file gives the relationships of VTO
 
 ### outputs
