@@ -1,5 +1,4 @@
 taxa_name	pectoral_fin	pelvic_fin	pectoral_inferred	pelvic_inferred
-taxa	pectoral fin	pelvic fin	pectoral fin	pelvic fin
 Megalomycteridae	?	?	?	?
 Lycenchelys_hureaui	?	0	?	0
 Pholis_fasciata	1	0	1	0

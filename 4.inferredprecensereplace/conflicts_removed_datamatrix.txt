@@ -1,5 +1,4 @@
-taxa_name	pectoral_fin	pelvic_fin
-taxa	pectoral fin	pelvic fin	
+taxa_name	pectoral_fin	pelvic_fin	
 Megalomycteridae	?	?	
 Lycenchelys_hureaui	?	0	
 Pholis_fasciata	1	0	
